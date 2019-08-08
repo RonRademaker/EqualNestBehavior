@@ -4,7 +4,7 @@
     "keywords": [ "propel", "behavior", "equal nest", "friendship" ],
     "license": "MIT",
     "require": {
-        "propel/propel1": "~1.6"
+        "connectholland/propel1": "~1.6"
     },
     "authors": [
         {
